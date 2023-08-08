@@ -1,4 +1,4 @@
-#include <pthread>
+#include <thread>
 #include <isotream>
 
 void helloThread(int num){
