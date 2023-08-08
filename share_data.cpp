@@ -1,5 +1,5 @@
 #include <iostream>
-#include <pthread>
+#include <thread>
 #include <mutex>
 
 std::mutex num_mutex;
