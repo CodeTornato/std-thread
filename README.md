@@ -1,5 +1,5 @@
 # std-thread
-learning C++ std::thread
+this repo is for learning C++ std::thread
 
    hello_thread.cpp --- the example of how to create a std::thread
 
