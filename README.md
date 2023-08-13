@@ -6,3 +6,5 @@ this repo is for learning C++ std::thread
    
 
    share_data.cpp    --- how to use std::mutex to lock a thread which is acessing data,mutual exclusion.
+
+ just trying to commit something here
