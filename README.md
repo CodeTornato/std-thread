@@ -7,6 +7,7 @@ this repo is for learning C++ std::thread
 
    thread pools ?
 
+
    more topic to cover ---- atomic,thread sync, lock free design, lock-step?
 
 
