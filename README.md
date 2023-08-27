@@ -7,10 +7,10 @@ this repo is for learning C++ std::thread
 
    thread pools ?
    
+    std::aysnc
+   
    future - promise --- single shot thread communication 
 
-   std::aysnc
-   
    more topic to cover ---- atomic,thread sync, lock free design, lock-step?
 
 
