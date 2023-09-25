@@ -16,6 +16,7 @@ this repo is for learning C++ std::thread
 
    thread pool?
 
+   synchronize betweens threads?
 
 
 
