@@ -13,7 +13,6 @@ this repo is for learning C++ std::thread
 
    more topic to cover --- atomic,thread sync, lock free design, lock-step
     
-    
    thread pool
 
    synchronizing data betweens thread
