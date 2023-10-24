@@ -15,7 +15,4 @@ this repo is for learning C++ std::thread
     
    thread pool
 
-   synchronizing data betweens thread
-   
-
-
+   synchronizing data betweens thread\
