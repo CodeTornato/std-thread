@@ -17,4 +17,4 @@ this repo is for learning C++ std::thread
     
    thread pools
 
-   synchronizing data betweens thread\
+   synchronizing data betweens different thread
