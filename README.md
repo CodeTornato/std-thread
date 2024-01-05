@@ -10,6 +10,7 @@ this repo is for learning C++ std::thread
    thread ownership and transfering ownership?
    
     std::aysnc
+    lunch policy?
    
    future - promise --- single shot thread communication 
 
