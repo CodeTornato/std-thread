@@ -18,4 +18,6 @@ this repo is for learning C++ std::thread
     
    thread pools
 
+   condition variable
+
    synchronizing data betweens different thread
