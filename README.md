@@ -10,10 +10,9 @@ this repo is for learning C++ std::thread
    thread ownership and transfering ownership?
    
     std::aysnc
-    lunch policy?
    
    future - promise --- single shot thread communication 
-
+    lunch policy?
    more topic to cover --- atomic,thread sync, lock free design, lock-step
     
    thread pools
