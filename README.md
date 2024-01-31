@@ -3,7 +3,7 @@ this repo is for learning C++ std::thread
    
    ``std::thread ``
 
-   
+   w
       
    hello_thread.cpp --- the example of how to create a std::thread
 
