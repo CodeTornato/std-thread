@@ -18,7 +18,7 @@ this repo is for learning C++ std::thread
    more topic to cover --- atomic,thread sync, lock free design, lock-step
     
    thread pools
-    message queue
+    message queue?
    condition variable
    std::cv
    synchronizing data betweens different thread
