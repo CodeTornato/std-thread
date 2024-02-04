@@ -15,6 +15,7 @@ this repo is for learning C++ std::thread
    
    future - promise --- single shot thread communication 
     lunch policy?
+    
    more topic to cover --- atomic,thread sync, lock free design, lock-step
     
    thread pools
