@@ -16,7 +16,7 @@ this repo is for learning C++ std::thread
     lunch policy?
     
    more topic to cover --- atomic,thread sync, lock free design, lock-step
-    
+    std::atomic
    thread pools
     message queue
    condition variable
