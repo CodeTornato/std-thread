@@ -20,5 +20,5 @@ this repo is for learning C++ std::thread
    thread pools
     message queue
     
-   condition variable
+   condition variables
    synchronizing data betweens different thread
