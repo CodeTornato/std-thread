@@ -2,4 +2,4 @@
 #include <iostream>
 
 
-std::atomic ....
+std::atomic<bool> set;
