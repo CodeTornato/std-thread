@@ -11,7 +11,7 @@ this repo is for learning C++ std::thread
    
     std::aysnc
    future - promise --- single shot thread communication 
-    lunch policy?
+    lunch policy?asds
     
    more topic to cover --- atomic,thread sync, lock free design, lock-step
     std::atomic
