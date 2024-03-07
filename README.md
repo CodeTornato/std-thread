@@ -21,4 +21,4 @@ this repo is for learning C++ std::thread
    synchronizing data betweens different thread
 
 
-use case: 
+multi-threading use case: 
