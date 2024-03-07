@@ -22,3 +22,4 @@ this repo is for learning C++ std::thread
 
 
 multi-threading use case: 
+   same operating on the multiple data?
