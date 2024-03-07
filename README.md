@@ -19,3 +19,6 @@ this repo is for learning C++ std::thread
     message queue
    condition variables
    synchronizing data betweens different thread
+
+
+use case: 
