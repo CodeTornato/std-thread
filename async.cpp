@@ -1,1 +1,6 @@
-#example about std::async 
+#include <thread>
+
+
+void func(){
+  // do something
+}
