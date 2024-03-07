@@ -22,4 +22,5 @@ this repo is for learning C++ std::thread
 
 
 multi-threading use case: 
-   same operating on the multiple data.
+   - same operating on the multiple data.
+   - different operation on the same data?
