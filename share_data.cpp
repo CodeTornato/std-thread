@@ -11,7 +11,7 @@ void printNum(double& num){
 
 void addNum(double& num){
   std::lock_guard<std::mutex> num_lock(num_mutex);
-  // modifying shared number here by adding 1
+  // modifying shared number by adding 1
   num+=1;
 }
 
