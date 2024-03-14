@@ -8,6 +8,7 @@ std::mutex mtx;
 
 void func(){
   // do something
+  std::cout << "do something" << std::endl;
 }
 
 int main(){
