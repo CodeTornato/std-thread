@@ -9,14 +9,15 @@ void printNum(double& num){
   std::cout << "number is: " << num << std::endl;
 }
 
+
 void addNum(double& num){
   std::lock_guard<std::mutex> num_lock(num_mutex);
-  // modifying shared number by adding 1
+  // add shared number by adding 1
   num+=1;
 }
 
 int main(){
-
+  
   double num = 0;
   // execute multipy time here 
   int time_to_execute = 5;
