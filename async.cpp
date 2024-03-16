@@ -1,5 +1,6 @@
 #include <thread>
 
+//something setting launch policy to asyn,and using promise and future ?
 
 void func(){
   // do something
