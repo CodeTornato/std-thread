@@ -19,8 +19,7 @@ this repo is for learning C++ std::thread
     message queue
    condition variables
    synchronizing data betweens different thread
-
-
+   
 multi-threading use case: 
    - same operating on the multiple data.
    - different operation on the same data.
