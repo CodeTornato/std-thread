@@ -7,8 +7,11 @@
 std::mutex mtx;
 
 void lock_func1(){
-  // do something
-  std::cout << "do something" << std::endl;
+  // acquire the mutex
+  std::lock_guard<std::mutex>(mutex); 
+  while(){
+  std::cout << "fucn1 is being executed..." << std::endl;
+  }
 }
 
 
