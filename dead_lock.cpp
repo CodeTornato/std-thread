@@ -11,7 +11,7 @@ void lock_func1(){
   std::lock_guard<std::mutex>(mutex); 
   while(){
   std::cout << "fucn1 is being executed..." << std::endl;
-  }
+  }  // here func1 is unable to release mutex since its in a dead loop,so func2 will never get the mutex
 }
 
 
