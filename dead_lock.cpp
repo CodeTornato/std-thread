@@ -22,6 +22,8 @@ std::cout << "func2 is being executed..." << std::endl;
 }
 
 int main(){
+  std::thread f1_thread(lock_func1);
+  std::thread f2_thread(lock_func2);
   
   return 0;
 }
