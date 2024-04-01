@@ -18,7 +18,7 @@ this repo is for learning C++ std::thread
    thread pools
     message queue
    condition variables
-   synchronizing data betweens different thread
+   synchronizing data betweens different threads
    
 multi-threading use case: 
    - same operating on the multiple data.
