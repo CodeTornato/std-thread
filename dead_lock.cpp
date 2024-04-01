@@ -16,7 +16,7 @@ void lock_func1(){
 
 
 void lock_func2(){
-// unable to get lock since func1 got the lock all the time
+// fail to get lock since func1 got the lock all the time
 std::cout << "func2 is being executed..." << std::endl;
 
 }
