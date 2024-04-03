@@ -8,7 +8,7 @@ std::mutex mtx;
 
 void lock_func1(){
   // acquire the mutex
-  std::lock_guard<std::mutex>(mutex); 
+  std::lock_guard<std::mutex> guard(mutex); 
   while(){
   std::cout << "fucn1 is being executed..." << std::endl;
   }  // here func1 is unable to release mutex since its in a dead loop,so func2 will never get the mutex
