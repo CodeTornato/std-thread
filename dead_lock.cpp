@@ -16,7 +16,9 @@ void lock_func1(){
 
 
 void lock_func2(){
-// fail to get lock since func1 got the lock all the time
+  
+// fail to get lock if lock_func1 was started first
+std::lock_guard<std::mutex> guard(mutex);
 std::cout << "func2 is being executed..." << std::endl;
 
 }
