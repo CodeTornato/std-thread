@@ -5,6 +5,7 @@
 
 void func(){
   // do something
+  //...
 }
 
 int main(){
