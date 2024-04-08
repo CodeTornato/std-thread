@@ -4,7 +4,7 @@
 #include <thread>
 #include <mutex>
 
-std::mutex mtx;
+
 
 void lock_func1(){
   // acquire the mutex
