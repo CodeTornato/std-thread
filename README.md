@@ -10,6 +10,8 @@ this repo is for learning C++ std::thread
    thread ownership and transfering ownership?
    
     std::aysnc
+    std::future
+    std::result_of
    future - promise --- single shot thread communication 
 
     
