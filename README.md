@@ -12,6 +12,8 @@ this repo is for learning C++ std::thread
     std::aysnc
     std::future
     std::result_of
+    std::bind
+    std::forward
    future - promise --- single shot thread communication 
 
     
