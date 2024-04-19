@@ -13,6 +13,7 @@ this repo is for learning C++ std::thread
     std::result_of
     std::bind
     std::forward
+    std::future
    future - promise --- single shot thread communication 
 
     
