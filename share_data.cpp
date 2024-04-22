@@ -14,6 +14,7 @@ void addNum(double& num){
   std::lock_guard<std::mutex> num_lock(num_mutex);
   // add shared number by 1
   num+=1;
+  std::cout << "after add num: " << num << std::endl;
 }
 
 int main(){
