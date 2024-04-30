@@ -13,6 +13,7 @@ this repo is for learning C++ std::thread
     std::forward
     std::future
     std::mutex
+    std::condition_variable
    future - promise --- single shot thread communication 
 
     
