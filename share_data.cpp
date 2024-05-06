@@ -20,7 +20,7 @@ void addNum(double& num){
 int main(){
   
   double num = 0;
-  // execute multipy time here 
+  // execute multipy time 
   int time_to_execute = 5;
   for(int i = 0; i < time_to_execute; i++){
       std::thread t1(printNum,std::ref(num));
