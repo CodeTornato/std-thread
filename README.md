@@ -3,7 +3,7 @@ this repo is for learning C++ std::thread
 
    share_data.cpp    -- how to use std::mutex to lock a thread which is acessing data,mutual exclusion.\
 
-   thread ownership and transfering ownership?
+   thread ownership and transfering ownership?as
 
     std::thread
     std::aysnc
