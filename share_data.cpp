@@ -6,7 +6,7 @@ std::mutex num_mutex;
 
 void printNum(double& num){
   std::lock_guard<std::mutex> num_lock(num_mutex);
-  std::cout << "number is: " << num << std::endl;
+  std::cout << "number: " << num << std::endl;
 }
 
 
