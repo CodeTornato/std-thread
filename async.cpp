@@ -8,7 +8,6 @@ void func(){
 }
 
 int main(){
-// create a thread or with a asyn?
   std::thread thread_{func};
   return 0;
   
