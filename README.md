@@ -17,7 +17,7 @@ this repo is for learning C++ std::thread
    future - promise --- single shot thread communication 
 
     
-   more topic to cover --- atomic,thread sync, lock free design, lock-step
+   more topic to cover --- atomic,thread sync, lock free design
     std::atomic
    thread pools
     message queue
