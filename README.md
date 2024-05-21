@@ -1,5 +1,5 @@
 # std-thread
-this repo is for learning C++ std::thread
+this repo is for learning C++ std::thread 
 
    share_data.cpp   -- how to use std::mutex to lock a thread which is acessing data,mutual exclusion
    thread ownership and transfering ownership?
@@ -18,7 +18,7 @@ this repo is for learning C++ std::thread
     std::atomic
    thread pools
     message queue
-   condition variables
+   condition variable
    synchronizing data betweens different threads
    
 multi-threading use case: 
