@@ -7,9 +7,9 @@ this repo is for learning C++ std::thread
     std::thread
     std::aysnc
     std::future
-       --   std::result_of
-       --   std::bind
-       --   std::forward
+       -   std::result_of
+       -   std::bind
+       -   std::forward
     std::mutex
     std::condition_variable
    future - promise --- single shot thread communication...
