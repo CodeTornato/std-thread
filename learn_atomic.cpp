@@ -5,6 +5,6 @@
 std::atomic<bool> is_ready;
 
 int main(){
-  // empty
+  // empty ?
   return 0;
 }
