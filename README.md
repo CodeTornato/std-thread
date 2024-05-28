@@ -22,6 +22,6 @@ this repo is for learning C++ std::thread
    synchronizing data betweens different threads
    
 multi-threading use case: 
-   - same operating on the multiple data.
-   - different operation on the same data.
+     same operating on the multiple data.
+     different operation on the same data.
 ...
