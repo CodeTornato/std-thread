@@ -16,10 +16,10 @@ this repo is for learning C++ std::thread
 
    more topic to cover --- atomic,thread sync, lock free design
     std::atomic
-   thread pools
-   msg queue
-   condition variable
-   synchronizing data betweens different threads
+    thread pools
+    msg queue
+    condition variable
+    synchronizing data betweens different threads
    
 multi-threading use case: 
      same operating on the multiple data.
