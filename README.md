@@ -12,7 +12,7 @@ this repo is for learning C++ std::thread
        - std::forward
     std::mutex
     std::condition_variable
-   future - promise --- single shot thread communication...
+   future - promise --- single shot thread communication?
 
    more topic to cover --- atomic,thread sync, lock free design
     std::atomic
