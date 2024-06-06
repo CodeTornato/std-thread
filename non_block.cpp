@@ -6,6 +6,15 @@
 
 // a buffer area and provider - consumer pattern
 
+
+void data_provider(){
+  
+}
+
+void data_consumer() {
+  
+}
+
 char data_pool[256];
 
 
